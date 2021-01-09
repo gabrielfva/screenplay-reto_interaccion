@@ -1,0 +1,2 @@
+co/com/bancolombia/certificacion/retointeraccion/runners/InteractionSucursalVirtualRunner.java
+ co.com.bancolombia.certificacion.retointeraccion.runners.InteractionSucursalVirtualRunner
