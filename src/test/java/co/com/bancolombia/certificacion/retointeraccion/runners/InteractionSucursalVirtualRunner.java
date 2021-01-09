@@ -1,4 +1,4 @@
-package co.com.bancolombia.certificacion.retointeraccion.stepdefinitions;
+package co.com.bancolombia.certificacion.retointeraccion.runners;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.SnippetType;
