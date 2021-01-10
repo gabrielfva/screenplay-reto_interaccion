@@ -1,4 +1,8 @@
-co/com/bancolombia/certification/retointeraccion/tasks/OpenTheBrowser.java
- co.com.bancolombia.certification.retointeraccion.tasks.OpenTheBrowser
 co/com/bancolombia/certification/retointeraccion/userinterfaces/VirtualBranchHomePage.java
  co.com.bancolombia.certification.retointeraccion.userinterfaces.VirtualBranchHomePage
+co/com/bancolombia/certification/retointeraccion/tasks/OpenTheBrowser.java
+ co.com.bancolombia.certification.retointeraccion.tasks.OpenTheBrowser
+co/com/bancolombia/certification/retointeraccion/tasks/GoTo.java
+ co.com.bancolombia.certification.retointeraccion.tasks.GoTo
+co/com/bancolombia/certification/retointeraccion/userinterfaces/Enter.java
+ co.com.bancolombia.certification.retointeraccion.userinterfaces.Enter

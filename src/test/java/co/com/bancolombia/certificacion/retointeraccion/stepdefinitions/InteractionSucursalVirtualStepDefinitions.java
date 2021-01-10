@@ -1,5 +1,6 @@
 package co.com.bancolombia.certificacion.retointeraccion.stepdefinitions;
 
+import co.com.bancolombia.certification.retointeraccion.tasks.GoTo;
 import co.com.bancolombia.certification.retointeraccion.tasks.OpenTheBrowser;
 import cucumber.api.PendingException;
 import cucumber.api.java.Before;
@@ -27,6 +28,7 @@ public class InteractionSucursalVirtualStepDefinitions {
     public void thatGabrielWantsToTryToEnterToTheBancolombiaSVirtualBranch() {
         gabriel.wasAbleTo(OpenTheBrowser.on());
         //2. Dirigirse al botón entrar y hacer clic sobre él;
+        gabriel.wasAbleTo(GoTo.theApp());
     }
 
 
